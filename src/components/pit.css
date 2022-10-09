@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+td:first-child {
+    width: 300px;
+}
+
+.table-style {
+    margin: 0 auto;
+    width: 400px;
+}
